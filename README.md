@@ -1,1 +1,2 @@
 # Simple-Secured-Password-Dictionary
+Designed a secured password dictionary, which can hold 10 password which will be encrypted using simple encryption method of xor operation and 1 place right rotate. This encrypted password dictionary will be encrypted/locked using a master password. If we wish to access a password from the dictionary the master password has to be entered and then the password which you would like to access will get decrypted and given to the user. This was implemented on ModelSim as well as Xillix Vivado.
